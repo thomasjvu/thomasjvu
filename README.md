@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomasjvu
+- 👋 Hi, I’m Thomas Vu, an IT & Legal Specialist by day, and developer by night
 - 🌱 I’m currently learning WebGL, Canvas, and Game Design (Unity + Pixel Art) in my spare time
 - 📫 Email: thomasjvu@gmail.com
 <!---
