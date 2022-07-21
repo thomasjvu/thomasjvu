@@ -1,6 +1,6 @@
-- 👺 Web Developer, IT and Legal Specialist by day; aspiring Game Developer by night.
+- 👺 Web Developer / IT and Legal Specialist by day; aspiring Game Developer by night.
 - ⛩️ I’m currently learning WebGL, Canvas, and Game Development (Unity, Blender, & Pixel Art) in my spare time.
-- 🎮 I love video games and hope to create my own JRPG-inspired game someday! 
+- 🎮 I love video games and hope to someday create my own JRPG-inspired game! 
 - 📫 Email: thomasjvu@gmail.com to make a new friend ~
 
 <!---
