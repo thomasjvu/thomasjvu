@@ -1,7 +1,7 @@
 - 👺 Web Developer / IT and Legal Specialist by day; aspiring Game Developer by night.
 - ⛩️ I’m currently learning 2D & 3D Game Development (Unity, Blender, & Pixel Art) in my spare time.
-- 🎮 I love video games and hope to someday create my own JRPG-inspired game! 
-- 📫 Email: hello@thomasjvu.com to make a new friend ~
+- 🎮 I love video games and hope to someday create my own JRPG-inspired game. 
+- 📫 Email: hello@thomasjvu.com to make a new friend!
 
 <!---
 thomasjvu/thomasjvu is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
