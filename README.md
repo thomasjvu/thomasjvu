@@ -1,4 +1,4 @@
-- 🗡️ Software Engineer by day, Aspiring Indie Game Developer by night.
+- 🗡️ Software Engineer by day, indie Game Developer by night.
 - 📫 Email: hello@thomasjvu.com to make a new friend!
 
 <!---
