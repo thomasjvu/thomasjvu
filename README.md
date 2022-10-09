@@ -1,6 +1,4 @@
-- 👺 Web Developer / IT and Legal Specialist by day; aspiring Game Developer by night.
-- ⛩️ I’m currently learning 2D & 3D Game Development and Japanese in my spare time.
-- 🎮 I love video games and hope to someday create my own JRPG-inspired game. 
+- 👺 Software Engineer by day; aspiring Game Developer by night.
 - 📫 Email: hello@thomasjvu.com to make a new friend!
 
 <!---
