@@ -1,6 +1,5 @@
-🗡️ Software Engineer
-
-📫 Email: hello@thomasjvu.com to make a new friend!
+- 🗡️ Software Engineer
+- 📫 Email: hello@thomasjvu.com to make a new friend!
 
 <!---
 thomasjvu/thomasjvu is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
