@@ -1,4 +1,4 @@
-- 🗡️ Software Engineer
+- 🗡️ Software Engineer | Indie Game Developer | Vim Enthusiast
 - 📫 Email: hello@thomasjvu.com to make a new friend!
 
 <!---
