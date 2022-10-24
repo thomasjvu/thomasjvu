@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://thomasjvu.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=fff&style=for-the-badge&logo=next.js&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e5e4e2&style=for-the-badge&logo=next.js&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/thomasjvu" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=fff&style=for-the-badge&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=e5e4e2&style=for-the-badge&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/thomasjvu_" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=fff&style=for-the-badge&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=e5e4e2&style=for-the-badge&logo=twitter&logo-color=white"/>
   </a>
   <!-- <a href="https://thomasjvu.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGELLIST&color=fff&style=for-the-badge&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGELLIST&color=e5e4e2&style=for-the-badge&logo=angellist&logo-color=white"/>
   </a> -->
   <a href="https://thomasjvu.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=fff&style=for-the-badge&logo=adobe&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=e5e4e2&style=for-the-badge&logo=adobe&logo-color=white"/>
   </a>
 </p>
 
