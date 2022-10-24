@@ -22,7 +22,7 @@
 
 <br>
 
-<p align="justify">I'm a Full-Stack Software Engineer with an entrepreneurial spirit and background in intellectual property. I have experience in building semantic web applications that are both accessible and aesthetically pleasing. I am seeking both software engineering and game development opportunities in product-driven companies where I can put my technical problem-solving skills to the test!</p>
+<p align="justify">I'm a Full-Stack Software Engineer with an entrepreneurial spirit and background in intellectual property. I have experience in building semantic web applications that are both accessible and aesthetically pleasing. I am seeking both software engineering and game development opportunities in product-driven companies where I can put my creativity and technical problem-solving skills to the test!</p>
 
 ---
 
