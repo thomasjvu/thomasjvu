@@ -1,9 +1,41 @@
-- 🗡️ Software Engineer | Indie Game Developer | Vim Enthusiast
-- 📫 Email: hello@thomasjvu.com to make a new friend!
 
-<!---
-thomasjvu/thomasjvu is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
---->
+<img src="https://i.imgur.com/c9v90x1.png" width="100%" alt="banner of Thomas J. Vu name">
+<br>
+<br>
+
+<p align="center">
+  <a href="https://thomasjvu.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=fff&style=for-the-badge&logo=next.js&logo-color=white"/>
+  </a>
+  <a href="https://linkedin.com/in/thomasjvu" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=fff&style=for-the-badge&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/thomasjvu_" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=fff&style=for-the-badge&logo=twitter&logo-color=white"/>
+  </a>
+  <!-- <a href="https://thomasjvu.com/angellist" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGELLIST&color=fff&style=for-the-badge&logo=angellist&logo-color=white"/>
+  </a> -->
+  <a href="https://thomasjvu.com/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=fff&style=for-the-badge&logo=adobe&logo-color=white"/>
+  </a>
+</p>
+
+<br>
+
+<p align="justify">I'm a Full-Stack Software Engineer with an entrepreneurial spirit and background in intellectual property. I have experience in building semantic web applications that are both accessible and aesthetically pleasing. I am seeking both software engineering and game development opportunities in product-driven companies where I can put my business-oriented mindset, collaboration, creativity, and technical problem-solving skills to the test!</p>
+
+<br>
+
+---
+
+🗡️ Software Engineer | Indie Game Developer | Vim Enthusiast (Neovim)
+
+🗡️ Check out [my website](https://thomasjvu.com) to view my project portfolio and learn more about me!
+
+🗡️ Email: hello@thomasjvu.com to make a new friend!
+
+---
 
 ## 🎨 Creative Tools
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
