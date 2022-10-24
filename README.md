@@ -1,7 +1,6 @@
 
 <img src="https://i.imgur.com/c9v90x1.png" width="100%" alt="banner of Thomas J. Vu name">
 <br>
-<br>
 
 <p align="center">
   <a href="https://thomasjvu.com" target="_blank">
