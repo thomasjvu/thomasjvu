@@ -3,7 +3,9 @@
 <br>
 
 <p align="center">
-![WEBSITE](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=fff&style=for-the-badge&logo=next.js&logo-color=white)
+  <a href="https://thomasjvu.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=fff&style=for-the-badge&logo=next.js&logo-color=white"/>
+  </a>
   <a href="https://linkedin.com/in/thomasjvu" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=fff&style=for-the-badge&logo=linkedin&logo-color=white"/>
   </a>
