@@ -26,7 +26,7 @@
 
 ---
 
-🗡️ Software Engineer | Indie Game Developer | Vim Enthusiast (Neovim)
+🗡️ Software Engineer | Indie Game Developer | Vim Enthusiast (Neovim) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 🗡️ Check out [my website](https://thomasjvu.com) to view my project portfolio, read blog posts, and learn more about me!
 
