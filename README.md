@@ -27,6 +27,7 @@
 ---
 
 🗡️ Software Engineer | Indie Game Developer | Vim Enthusiast (Neovim)
+
 🗡️ Check out [my website](https://thomasjvu.com) to view my project portfolio, read blog posts, and learn more about me!
 
 🗡️ Email: hello@thomasjvu.com to make a new friend!
