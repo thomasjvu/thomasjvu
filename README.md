@@ -1,4 +1,3 @@
-
 <img src="https://i.imgur.com/c9v90x1.png" width="100%" alt="banner of Thomas J. Vu name">
 <br>
 
@@ -34,6 +33,149 @@
 
 ---
 
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+    <br>
+      <h3 align="center"><strong>IP Patent Marketplace</strong></h3>
+        <br />
+        <a target="_blank" href="http://patent-marketplace.netlify.app">
+            <img src="https://github.com/thomasjvu/two-hit-knockout/raw/main/img/2hko.gif" width="100%" alt="IP Patent Marketplace Cover"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/thomasjvu/patent-marketplace" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ffffff&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+    <a href="https://patent-marketplace.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GITBOOK&color=3680f7&style=for-the-badge&logo=gitbook&logo-color=white"/>
+  </a>
+  <a href="https://patent-marketplace.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=🗡&message=WEBSITE&color=ff2147&style=for-the-badge&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, and Javascript</strong> - Build a portfolio of patents that you're looking to team up with an inventor with to license.</p>
+    </td>
+    <td width="50%" valign="top">
+        <br>
+      <h3 align="center"><strong>Two-hit Knockout (2HKO)</strong></h3>
+        <br />
+      <a target="_blank" href="https://sudden-death.netlify.app">
+            <img src="https://github.com/thomasjvu/sudden-death/raw/main/img/2hko.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/thomasjvu/sudden-death" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ffffff&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+    <a href="https://sudden-death.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GITBOOK&color=3680f7&style=for-the-badge&logo=gitbook&logo-color=white"/>
+  </a>
+  <a href="https://sudden-death.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=🗡&message=WEBSITE&color=ff2147&style=for-the-badge&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5 (Canvas), CSS3, & JavaScript</strong> - Challenge someone next to you to a showdown! The first person to get two hits on their enemy is declared the victor.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+        <br>
+      <h3 align="center"><strong>Thomas J. Vu (Portfolio)</strong></h3>
+        </br>
+        <a target="_blank" href="https://thomasjvu.com">
+          <img src="https://raw.githubusercontent.com/thomasjvu/folio/main/public/site-preview.png?token=GHSAT0AAAAAABY3QQUZIW2YZUAIKOCF7JPCY256F6A" width="100%" alt="Portfolio"/>
+        </a>
+        <p align="center">
+
+  <a href="https://github.com/thomasjvu/folio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ffffff&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+    <a href="https://thomasjvu.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GITBOOK&color=3680f7&style=for-the-badge&logo=gitbook&logo-color=white"/>
+  </a>
+  <a href="https://thomasjvu.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=🗡&message=WEBSITE&color=ff2147&style=for-the-badge&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects, thought pieces, and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+        <br>
+      <h3 align="center"><strong>YAS Notion Widgets</strong></h3>
+        <br />
+        <a target="_blank" href="https://yas-notion-widgetss.netlify.app/">
+          <img src="https://i.imgur.com/jxSc7OY.png" width="100%" alt="Matching Cards"/>
+        </a>
+        <p align="center">
+
+  <a href="https://github.com/thomasjvu/yas-notion-widgets" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ffffff&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+    <a href="https://yas-notion-widgets.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GITBOOK&color=3680f7&style=for-the-badge&logo=gitbook&logo-color=white"/>
+  </a>
+  <a href="https://yas-notion-widgets.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=🗡&message=WEBSITE&color=ff2147&style=for-the-badge&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Yet another simple collection of various different widgets that you can use to give your Notion swagger and functionality.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+    <br>
+      <h3 align="center"><strong>IP Patent Marketplace</strong></h3>
+        <br />
+        <a target="_blank" href="http://patent-marketplace.netlify.app">
+            <img src="https://github.com/thomasjvu/two-hit-knockout/raw/main/img/2hko.gif" width="100%" alt="IP Patent Marketplace Cover"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/thomasjvu/patent-marketplace" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ffffff&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+    <a href="https://patent-marketplace.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GITBOOK&color=3680f7&style=for-the-badge&logo=gitbook&logo-color=white"/>
+  </a>
+  <a href="https://patent-marketplace.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=🗡&message=WEBSITE&color=ff2147&style=for-the-badge&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, and Javascript</strong> - Build a portfolio of patents that you're looking to team up with an inventor with to license.</p>
+    </td>
+    <td width="50%" valign="top">
+        <br>
+      <h3 align="center"><strong>Two-hit Knockout (2HKO)</strong></h3>
+        <br />
+      <a target="_blank" href="https://sudden-death.netlify.app">
+            <img src="https://github.com/thomasjvu/sudden-death/raw/main/img/2hko.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/thomasjvu/sudden-death" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ffffff&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>
+    <a href="https://sudden-death.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=GITBOOK&color=3680f7&style=for-the-badge&logo=gitbook&logo-color=white"/>
+  </a>
+  <a href="https://sudden-death.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=🗡&message=WEBSITE&color=ff2147&style=for-the-badge&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5 (Canvas), CSS3, & JavaScript</strong> - Challenge someone next to you to a showdown! The first person to get two hits on their enemy is declared the victor.</p>
+    </td>
+  </tr>
+</table>
+
+
+---
 
 ### 🎨 **Creative Tools**
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
