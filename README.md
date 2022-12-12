@@ -15,7 +15,7 @@
   <!-- <a href="https://thomasjvu.com/angellist" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGELLIST&color=e5e4e2&style=for-the-badge&logo=angellist&logo-color=white"/>
   </a> -->
-  <a href="https://thomasjvu.com/resume" target="_blank">
+  <a href="https://drive.google.com/file/d/1yXCI0NYtcaVKtc_XmQ83_cjtrleFrm-z" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=e5e4e2&style=for-the-badge&logo=adobe&logo-color=white"/>
   </a>
 </p>
