@@ -2,31 +2,31 @@
 <img src="https://i.imgur.com/c9v90x1.png" width="100%" alt="banner of Thomas J. Vu name">
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://thomasjvu.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e5e4e2&style=for-the-badge&logo=next.js&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e5e4e2&style=for-the-badge&logo=next.js&logo-color=white" />
   </a>
   <a href="https://linkedin.com/in/thomasjvu" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=e5e4e2&style=for-the-badge&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=e5e4e2&style=for-the-badge&logo=linkedin&logo-color=white" />
   </a>
   <a href="https://twitter.com/thomasjvu_" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=e5e4e2&style=for-the-badge&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=e5e4e2&style=for-the-badge&logo=twitter&logo-color=white" />
   </a>
   <!-- <a href="https://thomasjvu.com/angellist" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGELLIST&color=e5e4e2&style=for-the-badge&logo=angellist&logo-color=white"/>
   </a> -->
   <a href="https://drive.google.com/file/d/1yXCI0NYtcaVKtc_XmQ83_cjtrleFrm-z" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=e5e4e2&style=for-the-badge&logo=adobe&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=e5e4e2&style=for-the-badge&logo=adobe&logo-color=white" />
   </a>
-</p>
+</div>
 
 <br>
 
-<p align="justify">I'm a Full-Stack Software Engineer with an entrepreneurial spirit and background in intellectual property. I have experience in building semantic web applications that are both accessible and aesthetically pleasing.</p>
+<p align="justify">I'm a Software Engineer with experience building full-stack web applications for clients. I have an entrepreneurial spirit and background in intellectual property. I have experience in building semantic web applications that are both accessible and aesthetically pleasing.</p>
 
 ---
 
-🗡️ Software Engineer | Indie Game Developer | Vim Enthusiast (Neovim)
+🗡️ Software Engineer | Vim Enthusiast (Neovim)
 
 🗡️ Check out [my website](https://thomasjvu.com) to view my project portfolio and learn more about me!
 
@@ -60,21 +60,12 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=ff2147&style=for-the-badge&logo=sql)
 
-### 📚 **Databases, Frameworks, & Libraries**
+### 📚 **Databases, Frameworks, Libraries, & Other Tools**
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📚 **Operating Systems, IDEs, & Other Tools**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
