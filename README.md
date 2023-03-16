@@ -75,9 +75,5 @@
 &nbsp;&nbsp;
 <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" width="48" />
 &nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/supabase-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/linux-light.svg" width="48" />
-&nbsp;&nbsp;
 <img src="https://api.iconify.design/skill-icons/vim-dark.svg" width="48" />
 </div>
