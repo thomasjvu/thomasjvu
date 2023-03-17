@@ -30,8 +30,7 @@
 
 
 <!-- Long Description Section -->
-<p align="justify">🗔 I'm a Software Engineer that specializes in full-stack web application development. I have a passion for helping businesses create user-friendly, aesthetically pleasing web experiences that are tailored to their unique goals and needs. With a solid foundation in frontend technologies like <b>JavaScript</b>, <b>React</b>, and <b>Vue</b>, as well as backend frameworks like <b>Node.js</b>, I'm able to build robust applications that meet the demands of today's digital landscape.</p>
-<p align="justify">🗔 What sets me apart is my dedication to creating unique visual experiences that not only function well, but also look great! I use technologies like <b>HTML Canvas</b> and <b>Three.js</b> to build eyecatching experiences because I believe aesthetics play a critical role in user engagement and retention. </p>
+<p align="justify">🗔 I'm a Software Engineer that specializes in full-stack web application development. I have a passion for helping businesses create user-friendly, aesthetically pleasing web experiences that are tailored to their unique goals and needs. With a solid foundation in frontend technologies like <b>JavaScript</b>, <b>React</b>, and <b>Three.js</b>, as well as backend frameworks like <b>Node.js</b>, I'm able to build robust applications that not only look great, but also functional well and meet the demands of today's digital landscape.</p>
 
 ---
 
