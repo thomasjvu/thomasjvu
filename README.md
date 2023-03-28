@@ -4,23 +4,23 @@
 <!-- Social Links Section -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/thomasjvu" target="_blank">
+  <a href="https://linkedin.com/in/thomasjvu">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=212121&style=for-the-badge&logo=linkedin" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/thomasjvu_" target="_blank">
+  <a href="https://twitter.com/thomasjvu_">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=212121&style=for-the-badge&logo=twitter" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://thomasjvu.com" target="_blank">
+  <a href="https://thomasjvu.com">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=212121&style=for-the-badge&logo=next.js" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wellfound.com/u/thomasjvu" target="_blank">
+  <a href="https://wellfound.com/u/thomasjvu">
     <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=212121&style=for-the-badge&logo=angellist" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://thomasjvu.com/resume" target="_blank">
+  <a href="https://thomasjvu.com/resume">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=212121&style=for-the-badge&logo=adobe" />
   </a>
 </div>
