@@ -48,7 +48,7 @@
 <table>
     <tr>
         <td width="50%">
-            <h2 align="center">Giga *</h2>
+            <h3 align="center">Giga *</h3>
             <a href="https://giga.onrender.com" target="_blank">
                 <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681701616/Project%20Covers/giga-cover_yvidse.png" width="100%" alt="Giga* Cover"/>
             </a>
@@ -71,7 +71,7 @@
             <br />
         </td>
         <td width="50%">
-            <h2 align="center">Point Blanks</h2>
+            <h3 align="center">Point Blanks</h3>
             <a href="https://customize.pointblanks.xyz" target="_blank">
                 <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681701617/Project%20Covers/point-blanks-customizer-cover_do8yvx.png" width="100%" alt="Point Blanks Cover"/>
             </a>
@@ -96,7 +96,7 @@
     </tr>
     <tr>
         <td width="50%">
-            <h2 align="center">OHKO</h2>
+            <h3 align="center">OHKO</h3>
             <a href="https://ohko.org" target="_blank">
                 <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681701616/Project%20Covers/ohko-cover_czilhf.png" width="100%" alt="OHKO Cover"/>
             </a>
