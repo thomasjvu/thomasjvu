@@ -1,5 +1,6 @@
 <!-- Cover Image Section -->
-![Thomas J. Vu GitHub Banner](https://i.imgur.com/c9v90x1.png)
+
+![Thomas J. Vu GitHub Banner](https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681705238/GitHub/GitHub_Banner_pxw5of.png)
 
 <!-- Social Links Section -->
 
@@ -27,8 +28,6 @@
 
 ---
 
-
-
 <!-- Long Description Section -->
 <p align="justify">I'm a Software Engineer that specializes in full-stack web application development. I have a passion for helping businesses create user-friendly, aesthetically pleasing web experiences that are tailored to their unique goals and needs. With a solid foundation in frontend technologies like <b>JavaScript</b>, <b>React</b>, and <b>Three.js</b>, as well as in backend frameworks like Express for <b>Node.js</b>, I'm able to build robust applications that not only look and feel great to the user, but that also function well and meet the demands of today's digital landscape.</p>
 
@@ -44,7 +43,106 @@
 
 ---
 
+<!-- Projects Section -->
 
+<table>
+    <tr>
+        <td width="50%">
+            <h2 align="center">Giga *</h2>
+            <a href="https://giga.onrender.com" target="_blank">
+                <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681701616/Project%20Covers/giga-cover_yvidse.png" width="100%" alt="Giga* Cover"/>
+            </a>
+            <div align="center">
+                <br />
+                <a href="https://github.com/thomasjvu/giga" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=CLIENT&color=212121&style=for-the-badge&logo=github"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://giga-docs.onrender.com" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://giga.onrender.com" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
+                </a>
+            </div>
+            <h4>🗡️ MongoDB, Express, React, Node.js, Stripe</h4>
+            <p align="justify">Freelance application where users can sign up as either a buyer or seller for purchasing and selling gig services within the video game development market.</p>
+            <br />
+        </td>
+        <td width="50%">
+            <h2 align="center">Point Blanks</h2>
+            <a href="https://customize.pointblanks.xyz" target="_blank">
+                <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681701617/Project%20Covers/point-blanks-customizer-cover_do8yvx.png" width="100%" alt="Point Blanks Cover"/>
+            </a>
+            <div align="center">
+                <br />
+                <a href="https://github.com/thomasjvu/pointblanks-customizer" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://docs.pointblanks.xyz" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://customize.pointblanks.xyz" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
+                </a>
+            </div>
+            <h4>🗡️ React, Three.js, OpenAI API, PostgreSQL</h4>
+            <p align="justify">3D product customizer and <a href="https://pointblanks.xyz">web application</a> for white label products. It is an informational platform that lets users discover eco-friendly print-on-demand options.</p>
+          <br />
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <h2 align="center">OHKO</h2>
+            <a href="https://ohko.org" target="_blank">
+                <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681701616/Project%20Covers/ohko-cover_czilhf.png" width="100%" alt="OHKO Cover"/>
+            </a>
+            <div align="center">
+                <br />
+                <a href="https://github.com/thomasjvu/ohko" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://docs.ohko.org" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://ohko.org" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=vue.js"/>
+                </a>
+            </div>
+            <h4>🗡️ Directus, PostgreSQL, Nuxt.js, Three.js</h5>
+            <p align="justify">Content creation platform for anime and video game artists, journalists, reviewers, and guide creators. Users can create and view content made on our site.</p>
+          <br />
+        </td>
+        <td width="50%">
+            <h3 align="center">Zendō</h3>
+            <a href="http://zendo.onrender.com" target="_blank">
+                <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681704820/Project%20Covers/zendo-cover_gapvlt.png" width="100%" alt="Zendo Cover" />
+            </a>
+            <div align="center">
+                <br />
+                <a href="https://github.com/thomasjvu/zendo" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://zendo-docs.onrender.com" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://zendo.onrender.com" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
+                </a>
+            </div>
+            <h4>🗡️ MongoDB, Express, React, Redux, Three.js</h4>
+            <p align="justify">Daily Journal Meditation Application where users are authorized using JWT. Users can respond to a daily meditation prompt and view other public affirmations.</p>
+            <br />
+        </td>
+    </tr>
+</table>
 
 <!-- Technologies Section -->
 <div>
@@ -75,4 +173,5 @@
 <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" width="48" />
 &nbsp;&nbsp;
 <img src="https://api.iconify.design/skill-icons/vim-dark.svg" width="48" />
+
 </div>
