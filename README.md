@@ -55,7 +55,7 @@
             <div align="center">
                 <br />
                 <a href="https://github.com/thomasjvu/giga" target="_blank">
-                    <img src="https://img.shields.io/static/v1?label=|&message=CLIENT&color=212121&style=for-the-badge&logo=github"/>
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://giga-docs.onrender.com" target="_blank">
