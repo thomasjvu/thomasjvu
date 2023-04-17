@@ -57,11 +57,11 @@
                 <a href="https://github.com/thomasjvu/giga" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=CLIENT&color=212121&style=for-the-badge&logo=github"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://giga-docs.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://giga.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
                 </a>
@@ -80,11 +80,11 @@
                 <a href="https://github.com/thomasjvu/pointblanks-customizer" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://docs.pointblanks.xyz" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://customize.pointblanks.xyz" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
                 </a>
@@ -105,11 +105,11 @@
                 <a href="https://github.com/thomasjvu/ohko" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://docs.ohko.org" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://ohko.org" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=vue.js"/>
                 </a>
@@ -128,11 +128,11 @@
                 <a href="https://github.com/thomasjvu/zendo" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://zendo-docs.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
                 </a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://zendo.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
                 </a>
@@ -146,32 +146,30 @@
 
 <!-- Technologies Section -->
 <div>
-<h3>Preferred Tools</h3>
-
-<img src="https://api.iconify.design/skill-icons/html.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/css.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/javascript.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/react-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/nextjs-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/vuejs-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/nuxtjs-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/threejs-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/postman.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/expressjs-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/mongodb.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" width="48" />
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/skill-icons/vim-dark.svg" width="48" />
-
+  <h2>Preferred Tools</h2>
+  <img src="https://api.iconify.design/skill-icons/html.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/css.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/javascript.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/react-dark.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/nextjs-dark.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/vuejs-dark.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/nuxtjs-dark.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/threejs-dark.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/postman.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/expressjs-dark.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/mongodb.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" width="48" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/skill-icons/vim-dark.svg" width="48" />
 </div>
