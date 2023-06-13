@@ -58,9 +58,9 @@
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://giga-docs.onrender.com" target="_blank">
+<!--                 <a href="https://giga-docs.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
-                </a>
+                </a> -->
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://giga.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
@@ -81,9 +81,9 @@
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://docs.pointblanks.xyz" target="_blank">
+<!--                 <a href="https://docs.pointblanks.xyz" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
-                </a>
+                </a> -->
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://customize.pointblanks.xyz" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
@@ -106,9 +106,9 @@
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://docs.ohko.org" target="_blank">
+<!--                 <a href="https://.ohko.org" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
-                </a>
+                </a> -->
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://ohko.org" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=vue.js"/>
@@ -129,9 +129,9 @@
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://zendo-docs.onrender.com" target="_blank">
+<!--                 <a href="https://zendo-docs.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
-                </a>
+                </a> -->
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://zendo.onrender.com" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
