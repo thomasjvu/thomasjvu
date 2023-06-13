@@ -90,7 +90,7 @@
                 </a>
             </div>
             <h4>🗡️ React, Supabase, PostgreSQL, TypeScript</h4>
-            <p align="justify">Job board application for roles in the gaming industry where users and companies can sign up to save and share job listings.</p>
+            <p align="justify">Job board application for roles in the gaming industry where users and companies can sign up to save and share job listings or partake in "skill" quizzes.</p>
           <br />
         </td>
     </tr>
