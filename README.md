@@ -85,11 +85,11 @@
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
                 </a> -->
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://customize.pointblanks.xyz" target="_blank">
+                <a href="https://groundzero-one.vercel.app" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
                 </a>
             </div>
-            <h4>🗡️ React, Supabase, PostgreSQL</h4>
+            <h4>🗡️ React, Supabase, PostgreSQL, TypeScript</h4>
             <p align="justify">Job board application for roles in the gaming industry where users and companies can sign up to save and share job listings.</p>
           <br />
         </td>
