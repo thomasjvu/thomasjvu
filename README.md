@@ -71,17 +71,17 @@
             <br />
         </td>
         <td width="50%">
-            <h3 align="center">Point Blanks</h3>
-            <a href="https://customize.pointblanks.xyz" target="_blank">
-                <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681701617/Project%20Covers/point-blanks-customizer-cover_do8yvx.png" width="100%" alt="Point Blanks Cover"/>
+            <h3 align="center">Ground Zero</h3>
+            <a href="https://groundzero-one.vercel.app" target="_blank">
+                <img src="https://res.cloudinary.com/dlcz9y0nv/image/upload/v1686698883/ground-zero_cover_ah0cer.png" width="100%" alt="Ground Zero Cover"/>
             </a>
             <div align="center">
                 <br />
-                <a href="https://github.com/thomasjvu/pointblanks-customizer" target="_blank">
+                <a href="https://github.com/thomasjvu/groundzero" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=212121&style=for-the-badge&logo=github"/>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--                 <a href="https://docs.pointblanks.xyz" target="_blank">
+<!--                 <a href="https://docs.groundzero.gg" target="_blank">
                     <img src="https://img.shields.io/static/v1?label=|&message=DOCS&color=212121&style=for-the-badge&logo=nuxt.js"/>
                 </a> -->
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,8 +89,8 @@
                     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=ff2147&style=for-the-badge&logo=react"/>
                 </a>
             </div>
-            <h4>🗡️ React, Three.js, OpenAI API, PostgreSQL</h4>
-            <p align="justify">3D product customizer and <a href="https://pointblanks.xyz">web application</a> for white label products. It is an informational platform that lets users discover eco-friendly print-on-demand options.</p>
+            <h4>🗡️ React, Supabase, PostgreSQL</h4>
+            <p align="justify">Job board application for roles in the gaming industry where users and companies can sign up to save and share job listings.</p>
           <br />
         </td>
     </tr>
