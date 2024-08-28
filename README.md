@@ -1,45 +1,37 @@
-<!-- Cover Image Section -->
+<!-- Cover Image -->
+![Thomas Vu Banner](https://github.com/user-attachments/assets/cadbce7c-f8cb-449d-8929-53446accf077)
 
-![Thomas J. Vu GitHub Banner](https://res.cloudinary.com/dlcz9y0nv/image/upload/v1681705238/GitHub/GitHub_Banner_pxw5of.png)
+<!-- Summary -->
+<p>
+  Thanks for dropping by and visiting my 
+  <img src="https://api.iconify.design/iconoir/github.svg" width="36" alt="GitHub" align="center" />
+  GitHub profile. I'm a self-taught programmer currently working as a Happiness Engineer at Automattic (WooCommerce). I spend my free time contributing to open source software and developing personal projects.
+</p>
 
-<!-- Social Links Section -->
+<br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/thomasjvu">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=212121&style=for-the-badge&logo=linkedin" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/thomasjvu_">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=212121&style=for-the-badge&logo=twitter" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://thomasjvu.com">
-    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=212121&style=for-the-badge&logo=next.js" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wellfound.com/u/thomasjvu">
-    <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=212121&style=for-the-badge&logo=angellist" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://thomasjvu.com/resume">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=212121&style=for-the-badge&logo=adobe" />
-  </a>
+<!-- Social Media Links -->
+<div>
+  <!-- Portfolio -->
+  <p>
+    <img src="https://api.iconify.design/streamline/browser-website-1-solid.svg" width="36" alt="Portfolio" align="center" />
+    Interested in learning more about me? Check out my <a href="https://www.thomasjvu.com">portfolio</a> to see my work.
+  </p>
+  <!-- LinkedIn -->
+  <p>
+    <img src="https://api.iconify.design/akar-icons/linkedinv1-fill.svg" width="36" alt="LinkedIn" align="center" />
+    Want to view my professional credentials and history? Come visit my <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> profile.
+  </p>
+    <!-- Portfolio -->
+  <p>
+    <img src="https://api.iconify.design/akar-icons/envelope.svg" width="36" alt="Portfolio" align="center" />
+    Want to drop a message? You can email me directly at <a href="mailto:hello@thomasjvu.com">hello@thomasjvu.com</a> for all inquiries.
+  </p>
 </div>
-
-<!-- Long Description Section -->
----
-
-<!-- Short Description Section -->
-
-🗡️ Check out [my portfolio](https://thomasjvu.com) to view all of my projects, read my blog, and learn more about me
-
-🗡️ Email: hello@thomasjvu.com for any business-related inquiries
-
----
 
 <!-- Projects Section -->
 
-<!-- Technologies Section -->
+<!--  
 <div>
   <h2>Preferred Tools</h2>
   <img src="https://api.iconify.design/skill-icons/html.svg" width="48" />
@@ -68,3 +60,4 @@
   &nbsp;&nbsp;
   <img src="https://api.iconify.design/skill-icons/vim-dark.svg" width="48" />
 </div>
+-->
