@@ -5,7 +5,10 @@
 <!-- Summary -->
 <p>
   Thanks for dropping by and visiting my 
-  <img src="https://api.iconify.design/iconoir/github.svg" width="36" alt="GitHub" align="center" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/skill-icons/github-light" align="center">
+    <img src="https://api.iconify.design/iconoir/github.svg" width="36" align="center">
+  </picture>
   GitHub profile. I'm a self-taught programmer currently working as a Happiness Engineer at Automattic. I spend my free time contributing to open source software and developing personal projects.
 </p>
 <br/>
