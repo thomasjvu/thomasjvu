@@ -1,6 +1,6 @@
 <!-- Cover Image -->
-![Thomas Vu Banner](https://github.com/user-attachments/assets/cadbce7c-f8cb-449d-8929-53446accf077)
-<br/>
+![Thomas Vu — GitHub Banner](https://github.com/user-attachments/assets/29de9b58-27a4-49b1-ad66-f2ae72d497d8)
+
 <br/>
 <!-- Summary -->
 <p>
@@ -29,35 +29,44 @@
   </p>
 </div>
 
+---
+
+<!-- Preferred Technologies -->
+<h3>Preferred Technologies</h3>
+<p>
+  I'm adatable and love to delve into new technology, but these few are some of my favorites:
+</p>
+<div>
+  <img src="https://api.iconify.design/devicon-plain/html5-wordmark.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/css3-wordmark.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/javascript.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/typescript.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/astro.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/supabase.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/mongodb.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/azure.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/nodejs.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/vim.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/unity.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/wordpress.svg" width="36" />
+  &nbsp;
+  <img src="https://api.iconify.design/devicon-plain/woocommerce.svg" width="36" />
+  &nbsp;
+
+  <img src="https://api.iconify.design/devicon/react.svg" width="36" />
+  &nbsp;
+</div>
+
 <!-- Projects Section -->
 
-<!--  
-<div>
-  <h2>Preferred Tools</h2>
-  <img src="https://api.iconify.design/skill-icons/html.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/css.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/javascript.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/react-dark.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/nextjs-dark.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/vuejs-dark.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/nuxtjs-dark.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/threejs-dark.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/postman.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/expressjs-dark.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/mongodb.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/postgresql-dark.svg" width="48" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/skill-icons/vim-dark.svg" width="48" />
-</div>
--->
