@@ -9,7 +9,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/iconoir/github.svg?color=white" width="24" align="center" alt="">
     <img src="https://api.iconify.design/iconoir/github.svg" width="24" align="center" alt="">
   </picture>
-  GitHub profile. I'm a self-taught programmer currently working as a Happiness Engineer at Automattic. I spend my free time contributing to open source software and developing personal projects.
+  GitHub profile. I'm a software engineer that spends his free time developing projects and contributing to open source software.
 </p>
 <br/>
 
