@@ -29,7 +29,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/grommet-icons/linkedin.svg?color=white" width="24" align="center" alt="">
       <img src="https://api.iconify.design/grommet-icons/linkedin.svg" width="24" align="center" alt="">
     </picture>
-    Want to view my professional credentials and history? Come visit my <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> profile.
+    Want to view my professional background? Visit my <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> profile.
   </p>
     <!-- Portfolio -->
   <p>
